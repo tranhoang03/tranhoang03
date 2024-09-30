@@ -13,35 +13,22 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/01.tien" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  <a href="[https://www.facebook.com/01.tien](https://www.facebook.com/haongit/)" alt="Facebook">
+    <img src="https://img.icons8.com/?size=100&id=106163&format=png&color=000000" target="_blank" />
   </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  <a href="https://www.kaggle.com/heklopia" alt="Kaggle" target="_blank" >
+    <img src="https://img.icons8.com/?size=100&id=1iP83OYM1FL-&format=png&color=000000"/>
   </a>
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a>
-  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  <a href="mailto:tranhoang0320@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/?size=100&id=53435&format=png&color=000000"/>
   </a>
 </p>
 
-
 ## Activities:
-
 <table style="width:100%;">
   <tr>
     <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhoang03&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tranhoang03" width="100%"/>
     </td>
   </tr>
 </table>
